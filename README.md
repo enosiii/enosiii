@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">👋 Hi ther, I’m enosiii!</h1>
+<h1 align="center">👋 Hi there, I’m enosiii!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enosiii&label=Profile%20views&color=0e75b6&style=flat" alt="enosiii" /> </p>
 
